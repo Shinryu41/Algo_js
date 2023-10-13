@@ -1,14 +1,14 @@
 let a = 4;
-let b = 4;
-let c = 3;
 
-switch(a) {
-    case b:
-        console.log('égal à B')
-        break
-    case c:
-        console.log('égal à c')
-        break
-    default:
-        console.log('égal à rien')            
+for (let i = 0; 1 < 0; i++) {
+    console.log("oklm");
+}
+
+console.log('while')
+
+let i = 0;
+
+while (i < 10) {
+    console.log(i);
+    i++;
 }
